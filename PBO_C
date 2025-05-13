@@ -146,9 +146,9 @@ class Program
         do
         {
             Console.WriteLine($"\n=== {perpustakaan.Nama} ===");
-            Console.WriteLine("1. Tambah Buku");
+            Console.WriteLine("1. Menambah Buku");
             Console.WriteLine("2. Lihat Semua Buku");
-            Console.WriteLine("3. Cari Buku");
+            Console.WriteLine("3. Mencari Buku");
             Console.WriteLine("4. Ubah Buku");
             Console.WriteLine("5. Hapus Buku");
             Console.WriteLine("6. Keluar");
